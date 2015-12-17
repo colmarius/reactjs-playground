@@ -1,4 +1,5 @@
 {
+  "root": true,
   "rules": {
     // best-practices
     "accessor-pairs": 2,
