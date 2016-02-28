@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './examples/hello_message';
+import App from './examples/timer';
 
 ReactDOM.render((
   <div>
