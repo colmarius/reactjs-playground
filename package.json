@@ -22,6 +22,7 @@
     "watchify": "^3.6.1"
   },
   "scripts": {
+    "clean": "rm -rf public/js",
     "prebuild": "[ ! -d public/js ] && mkdir public/js",
     "build": "browserify -v -d src/index.js -o public/js/bundle.js",
     "watch": "watchify   -v -d src/index.js -o public/js/bundle.js",
