@@ -1,5 +1,6 @@
-npm run-script + browserify + babel6 example
-=============
+# ReactJS Playground
+
+See `src/examples` and `src/index.js`.
 
 ## Usage
 
@@ -19,4 +20,3 @@ npm run lint
 # start the server
 npm start
 ```
-
